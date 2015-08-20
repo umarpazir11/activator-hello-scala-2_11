@@ -1,7 +1,3 @@
-[![Build Status](http://198.199.109.52:8080/buildStatus/icon?job=scala-sbt-activator)](http://198.199.109.52:8080/job/scala-sbt-activator/)
-- Scala Activator 
-- sbt test
-- test merge 22
-- TST233422
-test push
-/n ss
+[![Build Status](http://46.101.221.27:8080/job/scala%20push/badge/icon)](http://46.101.221.27:8080/job/scala%20push/)
+
+Scala activator
